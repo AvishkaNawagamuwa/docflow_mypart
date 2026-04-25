@@ -1,0 +1,1 @@
+Set-Location d:/codeCraft/backend/Doc-Flow-Backend-main; d:/codeCraft/.venv/Scripts/python.exe manage.py runserver
