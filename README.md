@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Doc Flow
 
 A workflow-driven document operations app with a React/Vite frontend and a Django backend. The UI includes role-based dashboards, a workflow builder, document management screens, an external portal, and admin tools for configuring the system.
@@ -137,3 +138,6 @@ Deploy the Django project from `backend/Doc-Flow-Backend-main/` using your prefe
 ## License
 
 No license file is included in this snapshot.
+=======
+# docflow_mypart
+>>>>>>> 9dc03bf8c82eb98757242520caa729b20fd97aa6
